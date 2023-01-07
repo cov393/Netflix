@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Netflix.App.xaml", "App.xaml", typeof(global::Netflix.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Netflix.App.xaml", "App.xaml", typeof(global::MovieApp.App))]
 
-namespace Netflix {
+namespace MovieApp {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]
